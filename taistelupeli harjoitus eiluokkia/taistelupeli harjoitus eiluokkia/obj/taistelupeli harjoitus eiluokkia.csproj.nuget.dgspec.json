@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\unitygit\\csharp-tehtavat\\colour\\colour\\colour.csproj": {}
+    "C:\\Users\\s2200814\\source\\repos\\taistelupeli harjoitus eiluokkia\\taistelupeli harjoitus eiluokkia\\taistelupeli harjoitus eiluokkia.csproj": {}
   },
   "projects": {
-    "C:\\unitygit\\csharp-tehtavat\\colour\\colour\\colour.csproj": {
+    "C:\\Users\\s2200814\\source\\repos\\taistelupeli harjoitus eiluokkia\\taistelupeli harjoitus eiluokkia\\taistelupeli harjoitus eiluokkia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\unitygit\\csharp-tehtavat\\colour\\colour\\colour.csproj",
-        "projectName": "colour",
-        "projectPath": "C:\\unitygit\\csharp-tehtavat\\colour\\colour\\colour.csproj",
+        "projectUniqueName": "C:\\Users\\s2200814\\source\\repos\\taistelupeli harjoitus eiluokkia\\taistelupeli harjoitus eiluokkia\\taistelupeli harjoitus eiluokkia.csproj",
+        "projectName": "taistelupeli harjoitus eiluokkia",
+        "projectPath": "C:\\Users\\s2200814\\source\\repos\\taistelupeli harjoitus eiluokkia\\taistelupeli harjoitus eiluokkia\\taistelupeli harjoitus eiluokkia.csproj",
         "packagesPath": "C:\\Users\\s2200814\\.nuget\\packages\\",
-        "outputPath": "C:\\unitygit\\csharp-tehtavat\\colour\\colour\\obj\\",
+        "outputPath": "C:\\Users\\s2200814\\source\\repos\\taistelupeli harjoitus eiluokkia\\taistelupeli harjoitus eiluokkia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

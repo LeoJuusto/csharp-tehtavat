@@ -1,0 +1,15 @@
+C:\Users\s2200814\source\repos\colour\colour\bin\Debug\net6.0\colour.exe
+C:\Users\s2200814\source\repos\colour\colour\bin\Debug\net6.0\colour.deps.json
+C:\Users\s2200814\source\repos\colour\colour\bin\Debug\net6.0\colour.runtimeconfig.json
+C:\Users\s2200814\source\repos\colour\colour\bin\Debug\net6.0\colour.dll
+C:\Users\s2200814\source\repos\colour\colour\bin\Debug\net6.0\colour.pdb
+C:\Users\s2200814\source\repos\colour\colour\obj\Debug\net6.0\colour.csproj.AssemblyReference.cache
+C:\Users\s2200814\source\repos\colour\colour\obj\Debug\net6.0\colour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200814\source\repos\colour\colour\obj\Debug\net6.0\colour.AssemblyInfoInputs.cache
+C:\Users\s2200814\source\repos\colour\colour\obj\Debug\net6.0\colour.AssemblyInfo.cs
+C:\Users\s2200814\source\repos\colour\colour\obj\Debug\net6.0\colour.csproj.CoreCompileInputs.cache
+C:\Users\s2200814\source\repos\colour\colour\obj\Debug\net6.0\colour.dll
+C:\Users\s2200814\source\repos\colour\colour\obj\Debug\net6.0\refint\colour.dll
+C:\Users\s2200814\source\repos\colour\colour\obj\Debug\net6.0\colour.pdb
+C:\Users\s2200814\source\repos\colour\colour\obj\Debug\net6.0\colour.genruntimeconfig.cache
+C:\Users\s2200814\source\repos\colour\colour\obj\Debug\net6.0\ref\colour.dll

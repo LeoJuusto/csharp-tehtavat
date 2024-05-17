@@ -1,0 +1,15 @@
+C:\Users\s2200814\source\repos\kordinaatti\kordinaatti\bin\Debug\net6.0\kordinaatti.exe
+C:\Users\s2200814\source\repos\kordinaatti\kordinaatti\bin\Debug\net6.0\kordinaatti.deps.json
+C:\Users\s2200814\source\repos\kordinaatti\kordinaatti\bin\Debug\net6.0\kordinaatti.runtimeconfig.json
+C:\Users\s2200814\source\repos\kordinaatti\kordinaatti\bin\Debug\net6.0\kordinaatti.dll
+C:\Users\s2200814\source\repos\kordinaatti\kordinaatti\bin\Debug\net6.0\kordinaatti.pdb
+C:\Users\s2200814\source\repos\kordinaatti\kordinaatti\obj\Debug\net6.0\kordinaatti.csproj.AssemblyReference.cache
+C:\Users\s2200814\source\repos\kordinaatti\kordinaatti\obj\Debug\net6.0\kordinaatti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200814\source\repos\kordinaatti\kordinaatti\obj\Debug\net6.0\kordinaatti.AssemblyInfoInputs.cache
+C:\Users\s2200814\source\repos\kordinaatti\kordinaatti\obj\Debug\net6.0\kordinaatti.AssemblyInfo.cs
+C:\Users\s2200814\source\repos\kordinaatti\kordinaatti\obj\Debug\net6.0\kordinaatti.csproj.CoreCompileInputs.cache
+C:\Users\s2200814\source\repos\kordinaatti\kordinaatti\obj\Debug\net6.0\kordinaatti.dll
+C:\Users\s2200814\source\repos\kordinaatti\kordinaatti\obj\Debug\net6.0\refint\kordinaatti.dll
+C:\Users\s2200814\source\repos\kordinaatti\kordinaatti\obj\Debug\net6.0\kordinaatti.pdb
+C:\Users\s2200814\source\repos\kordinaatti\kordinaatti\obj\Debug\net6.0\kordinaatti.genruntimeconfig.cache
+C:\Users\s2200814\source\repos\kordinaatti\kordinaatti\obj\Debug\net6.0\ref\kordinaatti.dll

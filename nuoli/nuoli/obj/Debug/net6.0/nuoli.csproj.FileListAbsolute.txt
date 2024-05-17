@@ -1,0 +1,15 @@
+C:\Users\s2200814\source\repos\nuoli\nuoli\bin\Debug\net6.0\nuoli.exe
+C:\Users\s2200814\source\repos\nuoli\nuoli\bin\Debug\net6.0\nuoli.deps.json
+C:\Users\s2200814\source\repos\nuoli\nuoli\bin\Debug\net6.0\nuoli.runtimeconfig.json
+C:\Users\s2200814\source\repos\nuoli\nuoli\bin\Debug\net6.0\nuoli.dll
+C:\Users\s2200814\source\repos\nuoli\nuoli\bin\Debug\net6.0\nuoli.pdb
+C:\Users\s2200814\source\repos\nuoli\nuoli\obj\Debug\net6.0\nuoli.csproj.AssemblyReference.cache
+C:\Users\s2200814\source\repos\nuoli\nuoli\obj\Debug\net6.0\nuoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200814\source\repos\nuoli\nuoli\obj\Debug\net6.0\nuoli.AssemblyInfoInputs.cache
+C:\Users\s2200814\source\repos\nuoli\nuoli\obj\Debug\net6.0\nuoli.AssemblyInfo.cs
+C:\Users\s2200814\source\repos\nuoli\nuoli\obj\Debug\net6.0\nuoli.csproj.CoreCompileInputs.cache
+C:\Users\s2200814\source\repos\nuoli\nuoli\obj\Debug\net6.0\nuoli.dll
+C:\Users\s2200814\source\repos\nuoli\nuoli\obj\Debug\net6.0\refint\nuoli.dll
+C:\Users\s2200814\source\repos\nuoli\nuoli\obj\Debug\net6.0\nuoli.pdb
+C:\Users\s2200814\source\repos\nuoli\nuoli\obj\Debug\net6.0\nuoli.genruntimeconfig.cache
+C:\Users\s2200814\source\repos\nuoli\nuoli\obj\Debug\net6.0\ref\nuoli.dll

@@ -1,0 +1,15 @@
+C:\Users\s2200814\source\repos\ruoka annos gnéneraattiori\ruoka annos gnéneraattiori\bin\Debug\net7.0\ruoka annos gnéneraattiori.exe
+C:\Users\s2200814\source\repos\ruoka annos gnéneraattiori\ruoka annos gnéneraattiori\bin\Debug\net7.0\ruoka annos gnéneraattiori.deps.json
+C:\Users\s2200814\source\repos\ruoka annos gnéneraattiori\ruoka annos gnéneraattiori\bin\Debug\net7.0\ruoka annos gnéneraattiori.runtimeconfig.json
+C:\Users\s2200814\source\repos\ruoka annos gnéneraattiori\ruoka annos gnéneraattiori\bin\Debug\net7.0\ruoka annos gnéneraattiori.dll
+C:\Users\s2200814\source\repos\ruoka annos gnéneraattiori\ruoka annos gnéneraattiori\bin\Debug\net7.0\ruoka annos gnéneraattiori.pdb
+C:\Users\s2200814\source\repos\ruoka annos gnéneraattiori\ruoka annos gnéneraattiori\obj\Debug\net7.0\ruoka annos gnéneraattiori.csproj.AssemblyReference.cache
+C:\Users\s2200814\source\repos\ruoka annos gnéneraattiori\ruoka annos gnéneraattiori\obj\Debug\net7.0\ruoka annos gnéneraattiori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200814\source\repos\ruoka annos gnéneraattiori\ruoka annos gnéneraattiori\obj\Debug\net7.0\ruoka annos gnéneraattiori.AssemblyInfoInputs.cache
+C:\Users\s2200814\source\repos\ruoka annos gnéneraattiori\ruoka annos gnéneraattiori\obj\Debug\net7.0\ruoka annos gnéneraattiori.AssemblyInfo.cs
+C:\Users\s2200814\source\repos\ruoka annos gnéneraattiori\ruoka annos gnéneraattiori\obj\Debug\net7.0\ruoka annos gnéneraattiori.csproj.CoreCompileInputs.cache
+C:\Users\s2200814\source\repos\ruoka annos gnéneraattiori\ruoka annos gnéneraattiori\obj\Debug\net7.0\ruoka annos gnéneraattiori.dll
+C:\Users\s2200814\source\repos\ruoka annos gnéneraattiori\ruoka annos gnéneraattiori\obj\Debug\net7.0\refint\ruoka annos gnéneraattiori.dll
+C:\Users\s2200814\source\repos\ruoka annos gnéneraattiori\ruoka annos gnéneraattiori\obj\Debug\net7.0\ruoka annos gnéneraattiori.pdb
+C:\Users\s2200814\source\repos\ruoka annos gnéneraattiori\ruoka annos gnéneraattiori\obj\Debug\net7.0\ruoka annos gnéneraattiori.genruntimeconfig.cache
+C:\Users\s2200814\source\repos\ruoka annos gnéneraattiori\ruoka annos gnéneraattiori\obj\Debug\net7.0\ref\ruoka annos gnéneraattiori.dll
